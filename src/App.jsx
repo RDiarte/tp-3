@@ -4,7 +4,7 @@ import Titulo from "./components/Titulo";
 function App() {
   return (
     <>
-      <Titulo primerProps=" MY FRIEND!"></Titulo>
+      <Titulo primerProps=" MY FRIEND"></Titulo>
     </>
   );
 }
