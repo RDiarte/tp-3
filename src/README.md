@@ -1,6 +1,6 @@
 # REACT TP3 ⚛️
 
-![compragamer](https://www.arsys.es/blog/file/uploads/2017/04/React.jpg)
+![React](https://www.arsys.es/blog/file/uploads/2017/04/React.jpg)
 
 Este es el tercero de una lista de ejercicios a realizar en el trabajo practico n°1 de **React** donde vamos a utilizar el **hook useState**
 
@@ -27,7 +27,7 @@ Este es el tercero de una lista de ejercicios a realizar en el trabajo practico 
 ## Como clonar el repositorio 💻
 
 ```bash
-git clone https://github.com/RDiarte/tp-2.git
+git clone https://github.com/RDiarte/tp-3.git
 ```
 
 ## Como contribuir con el repositorio 🤝
